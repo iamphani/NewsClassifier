@@ -1,2 +1,2 @@
 # NewsClassifier
-News Article Predictory
+News Article Predictor
