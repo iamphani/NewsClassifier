@@ -1,5 +1,7 @@
 # NewsClassifier
 
+[![codecov](https://codecov.io/gh/iamphani/NewsClassifier/branch/master/graph/badge.svg?token=32fee1ff-ea88-4afb-b3e1-9e834b6e038b)](https://codecov.io/gh/iamphani/NewsClassifier)
+
 Please find the Milestone report and the highlevel architecture documents in the documents/week1 folder.
 
 As part of Capstone project's Week1 module, we have created a docker pipeline to launch the Zookeeper, Kafka, Spark, MongoDB and the Kafka Producer and Consumer services.
