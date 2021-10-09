@@ -8,10 +8,9 @@ jobs:
 
   Build-NewsClassifier:
 
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
     - name: Build the Docker images and do docker-compose
-      run: docker-compose build . --file docker-compose.yml --tag my-image-name:$(date +%s)
- 
+      run: docker-compose up -d
