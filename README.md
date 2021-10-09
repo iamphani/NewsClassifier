@@ -14,3 +14,4 @@ topic/ category<br/>
 source<br/>
 We are streaming the data to the consumer using the Kafka broker.
 From the consumer side we are extracting the data from the Kafka broker and pushing the same into MongoDB.
+
