@@ -1,6 +1,6 @@
 # NewsClassifier
 
-Please find the Milestone report and the highlevel architecture document in the document/week1 folder.
+Please find the Milestone report and the highlevel architecture documents in the documents/week1 folder.
 
 As part of Capstone project's Week1 module, we have created a docker pipeline to launch the Zookeeper, Kafka, Spark, MongoDB and the Kafka Producer and Consumer services.
 We are using the https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news/ to fetch the news articles.
